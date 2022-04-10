@@ -1,5 +1,1 @@
-NeewJax
-Brazil, 19 
-Computer science student 
-Programming and open-sources
-"all knowledge is volatile."
+welcome to my github! i hope you like all the contents you can find here :) 

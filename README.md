@@ -6,8 +6,8 @@
 <br>
 
  ### Websites:
-[![Website](https://img.shields.io/website?label=DarkStats.com&style=for-the-badge&url=http://darkstats.epizy.com/)](https://darkstats.epizy.com/)
-[![Website](https://img.shields.io/website?label=cejol.com&style=for-the-badge&url=http://cejol.epizy.com/)](https://cejol.epizy.com/)
+[![Website](https://img.shields.io/website?label=darkstats.epizy.com&style=for-the-badge&url=http://darkstats.epizy.com/)](https://darkstats.epizy.com/)
+[![Website](https://img.shields.io/website?label=cejol.epizy.com&style=for-the-badge&url=http://cejol.epizy.com/)](https://cejol.epizy.com/)
 
  ### Contact me at:
 
@@ -17,6 +17,4 @@
 <div style="display: inline_block;">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black">
 </div><br>
